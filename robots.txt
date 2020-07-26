@@ -1,6 +1,0 @@
-User-agent: * 
-Disallow: /audio/
-Disallow: /images/
-Disallow: /includes/
-Disallow: /javascript/
-Disallow: /Guestbook/
